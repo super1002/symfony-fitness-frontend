@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+fin reset -f
+fin exec npm ci
