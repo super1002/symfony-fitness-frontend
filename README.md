@@ -1,4 +1,4 @@
-# symfony-fitness-frontend
+# Symfony Fitness Frontend
 
 ## Project setup
 ```
