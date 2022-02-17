@@ -2,22 +2,22 @@
 
 ## Project setup
 ```
-npm install
+fin init
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+fin exec npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-npm run build
+fin exec npm run build
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+fin exec npm run lint
 ```
 
 ### Customize configuration
