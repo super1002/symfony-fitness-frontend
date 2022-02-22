@@ -7,7 +7,7 @@ dotenv.config();
 
 let frontendApiHost = env.VIRTUAL_HOST;
 let localPort = 8080;
-let publicPort = env.PUBLIC_PORT;
+let publicPort = env.PUBLIC_PORT_VUE;
 // let filterOptions = {
 //     label: [
 //         'io.docksal.virtual-host'

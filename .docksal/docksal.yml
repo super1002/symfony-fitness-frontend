@@ -6,3 +6,4 @@ services:
       - FITNESS_API_URL
     ports:
       - '8080'
+      - '6006'
