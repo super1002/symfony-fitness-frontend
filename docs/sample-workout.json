@@ -1,0 +1,55 @@
+{
+  "id": 5,
+  "timestamp": "2022-02-20T12:36:00",
+  "activities": [
+    {
+      "label": "Push-ups",
+      "id": "00000-000-00-000000",
+      "sets": [
+        {
+          "type": "reps",
+          "count": 10
+        },
+        {
+          "type": "reps",
+          "count": 10
+        }
+      ]
+    },
+    {
+      "label": "Sit-ups",
+      "id": "0000-000-00-0-00",
+      "sets": [
+        {
+          "type": "count-over-time",
+          "time": 30,
+          "count": 12
+        },
+        {
+          "type": "count-over-time",
+          "time": 30,
+          "count": 5
+        }
+      ]
+    },
+    {
+      "label": "Bicep curls",
+      "id": "00000-000-00-000000",
+      "sets": [
+        {
+          "type": "reps",
+          "count": 15
+        },
+        {
+          "type": "reps",
+          "count": 15
+        },
+        {
+          "type": "reps",
+          "count": 15
+        }
+      ]
+    }
+  ],
+  "finishing-energy-level": "good"
+}

@@ -22,7 +22,6 @@ export default {
           }
         })
         .then((data) => {
-          console.log(data);
           this.equipments = data;
         });
     }
